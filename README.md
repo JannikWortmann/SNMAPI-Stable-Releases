@@ -1,0 +1,1 @@
+# SNMAPI-Stable-Releases
