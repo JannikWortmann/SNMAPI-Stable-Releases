@@ -9,3 +9,5 @@ All stable releases are uploaded here:
 # v1.2 Added Skip Tutorial. And added Login Fixes
 
 # v1.3 Fixed Outfit section. Added default modded profiles to outfit section.
+
+# v1.4 Fixed Login issues. 
